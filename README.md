@@ -1,5 +1,3 @@
-![Banner](<img width="404" height="110" alt="image" src="https://github.com/user-attachments/assets/709b9aff-adb5-4702-8e7c-71ec7156cef5" />
-)
 <h1 align="center">Hi 👋, I'm Hasti Gadara</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
