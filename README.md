@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasti Gadara</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **java and its framework.**
+- 🌱 I’m currently learning **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasti-gadara](https://github.com/Hasti-gadara)
 
