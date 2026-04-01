@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasti-gadara](https://github.com/Hasti-gadara)
 
-- 💬 Ask me about **html,css,java,c,python,c++,android,PHP,..,..**
+- 💬 Ask me about **html,css,java,c,python,c++,android,PHP,MEA(R)N Stack,..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
